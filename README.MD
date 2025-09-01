@@ -62,7 +62,7 @@ For use this alias, you'll need to have Linux OS installed on your computer. Fro
 
 ```bash
 # Copy the alias
-$ Open this link https://github.com/GustavoMaiaOliveira/##### and copy the all content
+$ Open this link https://github.com/GustavoMaiaOliveira/alias_for_linux/blob/main/alternative-alias and copy the all content
 
 # Open your Terminal, then go to ~/.bashrc
 $ nano ~/.bashrc
@@ -76,10 +76,6 @@ $ Crtl + Shift + V
 | [<img src="https://avatars.githubusercontent.com/u/161539603?s=400&u=4e1355b2c475c870a92d5453f7cb32560478f40e&v=4"><br><sub>Gustavo Maia Oliveira</sub>](https://github.com/GustavoMaiaOliveira) |
 | :---------------------------------------------------------------------------------------------------------------------------------------: |
 |                                       [Linkedin](https://www.linkedin.com/in/gustavomaiaoliveira/)                                        |
-
-# Credits
-
-icons by [Pino Lamanna][dribble-icon]
 
 [linux-badge]: https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black
 [linux]: https://www.kernel.org/
