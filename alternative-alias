@@ -23,7 +23,10 @@ alias gp='git push'
 alias gcl='git clone'
 alias gpl='git pull'
 alias gl='git log'
+alias gl-=o'git log --oneline'
 alias gc-='git reset --soft HEAD~1'
+alias gb-='git branch'
+alias gsw-='git switch'
 
 # Alias for VS Code
 
