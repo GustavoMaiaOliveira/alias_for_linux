@@ -51,6 +51,14 @@ This project uses only text for paste in your ~/.bashrc:
 - `gl`: Show commit history (`git log`)
 - `gc-`: Undo last commit, keeping changes staged (`git reset --soft HEAD~1`)
 
+- `gb`: List or manage branches (`git branch`)
+
+- `gsw`: Switch branches (`git switch`)
+
+- `gst`: Stash current changes (`git stash`)
+
+- `gch`: Switch branches or restore files (`git checkout`)
+
 <b>Optional alias</b>
 
 - `c.`: Open current folder in VS Code (`code .`)
