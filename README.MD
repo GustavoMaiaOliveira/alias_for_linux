@@ -59,9 +59,12 @@ This project uses only text for paste in your ~/.bashrc:
 
 - `gch`: Switch branches or restore files (`git checkout`)
 
-<b>Optional alias</b>
+<b>VS Code alias</b>
 
 - `c.`: Open current folder in VS Code (`code .`)
+
+<b>Optional alias</b>
+
 - `clj`: Shortcut for running Clojure (`clojure`)
 
 # 👨‍💻 How To Use
