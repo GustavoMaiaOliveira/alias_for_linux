@@ -79,7 +79,15 @@ $ Open this link https://github.com/GustavoMaiaOliveira/alias_for_linux/blob/mai
 $ nano ~/.bashrc
 
 # Paste this content before the end of file
-$ Crtl + Shift + V
+$ Ctrl + Shift + V
+
+# Save the file
+$ Ctrl + O
+$ Enter
+$ Ctrl + X
+
+# Reload the changes
+$ source ~/.bashrc
 ```
 
 ## Author
