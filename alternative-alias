@@ -30,6 +30,16 @@ alias gsw='git switch'
 alias gst='git stash'
 alias gch='git checkout'
 
+# Alias for Docker
+
+alias du='docker compose up -d'
+alias dp='docker ps'
+alias dpa='docker ps -a'
+alias ds='docker stop'
+alias dsa='docker stop $(docker ps -a -q)'
+alias dr='docker rm'
+alias dra='docker rm $(docker ps -a -q)'
+
 # Alias for VS Code
 
 alias c.='code .'
