@@ -38,7 +38,7 @@ alias nins='npm install'
 alias ninsf='npm install --force'
 alias nuns='npm uninstall'
 alias nr='npm run'
-alias nrd='npm dev'
+alias nrd='npm run dev'
 
 # Alias for Docker
 
