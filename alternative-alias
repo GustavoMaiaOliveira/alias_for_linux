@@ -30,6 +30,13 @@ alias gsw='git switch'
 alias gst='git stash'
 alias gch='git checkout'
 
+# Alias for npm
+
+alias ni='npm install'
+alias nif='npm install --force'
+alias nr='npm run'
+alias nrd='npm dev'
+
 # Alias for Docker
 
 alias du='docker compose up -d'
