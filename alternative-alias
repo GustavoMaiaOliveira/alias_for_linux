@@ -26,9 +26,14 @@ alias gl='git log'
 alias glo='git log --oneline'
 alias gc-='git reset --soft HEAD~1'
 alias gb='git branch'
+alias gbd='git branch -D'
+alias gb='git branch'
 alias gsw='git switch'
 alias gst='git stash'
+alias gstpo='git stash pop'
 alias gch='git checkout'
+alias gchb='git checkout -b'
+alias gf='git fetch'
 
 # Alias for npm
 
