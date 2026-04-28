@@ -58,7 +58,9 @@ This project uses only text for paste in your ~/.bashrc:
 - `gstpo`: Apply last stash and remove it (`git stash pop`)
 - `gch`: Switch branches or restore files (`git checkout`)
 - `gchb`: Create and switch to new branch (`git checkout -b`)
+- `gchm`: Switch branche to main (`git checkout main`)
 - `gf`: Fetch updates from remote (`git fetch`)
+- `gfu`: Fetch updates from upstream (`git fetch upstream`)
 
 <b>npm alias</b>
 
