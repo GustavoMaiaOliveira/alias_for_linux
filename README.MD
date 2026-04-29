@@ -45,6 +45,8 @@ This project uses only text for paste in your ~/.bashrc:
 - `gc`: Commit with a message (`git commit -m`)
 - `gs`: Show current status of repo (`git status`)
 - `gr`: Show remote repositories (`git remote -v`)
+- `gra`: Add a remote repositories (`git remote -v`)
+- `grrm`: Remote a remote repositories (`git remote -v`)
 - `gp`: Push changes to remote (`git push`)
 - `gcl`: Clone a repository (`git clone`)
 - `gpl`: Pull latest changes from remote (`git pull`)
