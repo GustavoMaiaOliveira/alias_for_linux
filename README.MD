@@ -55,6 +55,7 @@ This project uses only text for paste in your ~/.bashrc:
 - `gc-`: Undo last commit, keeping changes staged (`git reset --soft HEAD~1`)
 - `gb`: List or manage branches (`git branch`)
 - `gbd`: Delete branch forcefully (`git branch -D`)
+- `gbr`: List remote branchs (`git branch -r`)
 - `gsw`: Switch branches (`git switch`)
 - `gst`: Stash current changes (`git stash`)
 - `gstpo`: Apply last stash and remove it (`git stash pop`)
